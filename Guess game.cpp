@@ -45,7 +45,7 @@ int main()
 	
 	cout<< "Do you want to play a guess game?\n";
 	cout<<"0.NO"<<endl<<"1.Yes"<<endl;
-	cout<< "Choose 0 or 1 , to play the game";
+	cout<< "Choose 0 or 1 , to play the game--\n";
 	cin >> choice;
 	switch(choice)
 	{
