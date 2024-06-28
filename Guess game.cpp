@@ -20,7 +20,7 @@ void play_game()
 		
 		if (guess == random)
 		{
-			cout << "Congratulations! You won the guess game,\n";
+			cout << "Congratulations! You won the guess game.\n";
 			break;
 		}
 		else if(guess > random)
